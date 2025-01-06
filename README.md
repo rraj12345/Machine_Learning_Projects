@@ -1,7 +1,3 @@
-To address the need for a more detailed report, here is a comprehensive breakdown of your project, organized in a formal, professional manner. This report will cover the methodology in depth, explaining each step of the process, its significance, and why it was chosen. This should provide clarity on every aspect of the work and demonstrate the thought process behind each decision.
-
----
-
 # **Detailed Project Report: Vehicle Silhouettes Classification**
 
 ## **1. Introduction**
